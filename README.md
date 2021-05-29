@@ -1,6 +1,6 @@
 # XOT-CV-LFO
 
-Max for Live MIDI effect. CV LFO effect adding a unipolar/bipolar mode switch. 
+Max for Live effect. CV LFO adding a unipolar/bipolar mode switch. 
 
 (c) Jaap-Henk Hoepman (info@xot.nl)
 
@@ -8,7 +8,7 @@ Max for Live MIDI effect. CV LFO effect adding a unipolar/bipolar mode switch.
 
 ![Screenshot](Screenshot.png "Screenshot")
 
-This effect is a simple adaptation from Ableton Live's CV LFO effect adding a unipolar/bipolar mode switch. 
+This effect is a simple adaptation of Ableton Live's CV LFO effect adding a unipolar/bipolar mode switch. 
 
 In *bipolar* mode (as the original effect implements), the LFO oscillates around the offset. As a result the offset corresponds to the mean output of the oscillator, which is stable even when the depth is modulated. 
 
