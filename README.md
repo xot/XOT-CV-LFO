@@ -1,6 +1,6 @@
 # XOT-CV-LFO
 
-Max for Live MIDI effect
+Max for Live MIDI effect. CV LFO effect adding a unipolar/bipolar mode switch. 
 
 (c) Jaap-Henk Hoepman (info@xot.nl)
 
