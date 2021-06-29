@@ -17,4 +17,4 @@ In *positive unipolar* mode (+, new), the LFO oscillates between offset and offs
 In *negatove unipolar* mode (-, also new), the LFO oscillates between offset - depth and offset, in other words the LFO signal is subtracted from the offset. 
 This guarantees that the offset always corresponds to the highest signal output of the LFO, even when the depth is modulated.
 
-With this modification, the modulators more easily used in modular rack style synthesis setups.
+With this modification, the modulators are more easily used in modular rack style synthesis setups.
